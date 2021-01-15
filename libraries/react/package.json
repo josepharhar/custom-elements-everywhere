@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "1.3.3",
-    "react": "16.14.0",
-    "react-dom": "16.14.0"
+    "react": "file:~/react/build/node_modules/react",
+    "react-dom": "file:~/react/build/node_modules/react-dom",
+    "scheduler": "file:~/react/build/node_modules/scheduler"
   }
 }
